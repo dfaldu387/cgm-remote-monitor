@@ -1,3 +1,5 @@
+Demo copy for software-compliance analysis. Not a medical device.
+
 Nightscout Web Monitor (a.k.a. cgm-remote-monitor)
 ==================================================
 
